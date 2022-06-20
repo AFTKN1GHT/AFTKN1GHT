@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AFTKN1GHT
+- 👀 I’m interested in Coding, specifically on bizarre, or outdated software
+- 🌱 I’m currently learning C++ and Python
+- 💞️ I’m looking to collaborate on making software development more acessible and understanding 
+- 📫 How to reach me [dont]
